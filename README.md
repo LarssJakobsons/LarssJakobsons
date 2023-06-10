@@ -3,7 +3,7 @@
 ### I'm Larss_J
 &nbsp; I like coding discord bots, playing video games, chess and listening to music.
 
-### [![Pronouns](https://img.shields.io/badge/He%2FHim-black?style=flat-square)](https://github.com/LarssJakobsons)
+<img src="https://img.shields.io/badge/He%2FHim-black?style=flat-square" height="30" />
 
 #### Skillset:
 &nbsp;[![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/LarssJakobsons) [![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://github.com/LarssJakobsons)
