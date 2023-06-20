@@ -1,10 +1,9 @@
 <h1 style='text-align:center;'>Hello! 👋</h1>
 
 ### I'm Larss_J
-&nbsp; I like coding discord bots, playing video games, chess and listening to music.
 
 #### Skillset:
-&nbsp;[![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/LarssJakobsons) [![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://github.com/LarssJakobsons)
+&nbsp;[![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons)
 
 #### Socials:
 &nbsp;[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Larss_J) [![Discord server](https://img.shields.io/badge/Discord_server-black?style=flat-square&logo=discord)](https://discord.gg/TReMEyBQsh) [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/Larss_J)
