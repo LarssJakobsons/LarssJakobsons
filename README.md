@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<a href="https://kofi.com/larssj?=redirect">
+<a href="https://ko-fi.com/larssj?=redirect">
     <img src="https://img.shields.io/badge/Support_me!-EC6961?labelColor=white&style=flat-square&logo=kofi" alt="Support me!" height="30">
 </a>
 </p>
