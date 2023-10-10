@@ -9,8 +9,8 @@
 #### Socials:
 &nbsp;[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Larss_J) [![Discord server](https://img.shields.io/badge/Discord_server-black?style=flat-square&logo=discord)](https://discord.gg/TReMEyBQsh) [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/Larss_J)
 
-#### Current projects:
-&nbsp;[![Larss_Bot](https://img.shields.io/github/stars/LarssJakobsons/Larss_bot?color=yellow&label=Larss_Bot&style=flat-square)](https://github.com/LarssJakobsons/Larss_Bot) [![CharacterAI-Discord-Bot](https://img.shields.io/github/stars/LarssJakobsons/CharacterAI-Discord-Bot?color=yellow&label=CharacterAI-Discord-Bot&style=flat-square)](https://github.com/LarssJakobsons/CharacterAI-Discord-Bot) [![Discord-Rich-Presence-Python](https://img.shields.io/github/stars/LarssJakobsons/Discord-rich-presence-python?color=yellow&label=Py-discord-RP&style=flat-square)](https://github.com/LarssJakobsons/Discord-rich-presence-python)
+#### Currently working on:
+&nbsp;[![Larss_Bot](https://img.shields.io/github/stars/LarssJakobsons/Larss_bot?color=yellow&label=Larss_Bot&style=flat-square)](https://github.com/LarssJakobsons/Larss_Bot) [![CharacterAI-Discord-Bot](https://img.shields.io/github/stars/LarssJakobsons/CharacterAI-Discord-Bot?color=yellow&label=CharacterAI-Discord-Bot&style=flat-square)](https://github.com/LarssJakobsons/CharacterAI-Discord-Bot)
 
 <p align="center">
 <a href="https://ko-fi.com/larssj?=redirect">
