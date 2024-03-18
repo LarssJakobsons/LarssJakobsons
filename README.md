@@ -16,8 +16,8 @@
 [![CharacterAI-Discord-Bot](https://img.shields.io/github/stars/LarssJakobsons/CharacterAI-Discord-Bot?color=yellow&label=CharacterAI-Discord-Bot&style=flat-square)](https://github.com/LarssJakobsons/CharacterAI-Discord-Bot)
 -->
 <p align="center">
-<a href="https://ko-fi.com/larssj?=redirect">
-    <img src="https://img.shields.io/badge/Support_me!-EC6961?labelColor=white&style=flat-square&logo=kofi" alt="Support me!" height="30">
+<a href="https://ko-fi.com/T6T4NN2UM">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
 </a>
 </p>
 
