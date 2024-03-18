@@ -1,4 +1,4 @@
-# Hello there! 👋
+l# Hello there! 👋
 
 ### [I'm Larss_J](https://larssj.dev)
 &nbsp; Your favourite self-proclaimed coder :D
@@ -10,7 +10,7 @@
 &nbsp;[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/Larss_J) [![Discord server](https://img.shields.io/badge/Discord_server-black?style=flat-square&logo=discord)](https://discord.gg/TReMEyBQsh) [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/Larss_J)
 
 #### Currently working on:
-&nbsp;[![Larss_Bot](https://img.shields.io/github/stars/LarssJakobsons/Larss_bot?color=yellow&label=Larss_Bot&style=flat-square)](https://github.com/LarssJakobsons/Larss_Bot) [![larssjdev](https://img.shields.io/website?url=https%3A%2F%2Flarssj.dev&up_message=up&down_message=down&down_color=fa3b2d&style=flat-square&label=larssj.dev)](https://larssj.dev) [![grandtoureu](https://img.shields.io/website?url=https%3A%2F%2Fupgrandtour.eu&up_message=up&down_message=down&down_color=fa3b2d&style=flat-square&label=upgrandtoureu)](https://upgrandtour.eu) 
+&nbsp;[![larssjdev](https://img.shields.io/website?url=https%3A%2F%2Flarssj.dev&up_message=up&down_message=down&down_color=fa3b2d&style=flat-square&label=larssj.dev)](https://larssj.dev) [![grandtoureu](https://img.shields.io/website?url=https%3A%2F%2Fupgrandtour.eu&up_message=up&down_message=down&down_color=fa3b2d&style=flat-square&label=upgrandtoureu)](https://upgrandtour.eu) 
 <!--
 [![CharacterAI-Discord-Bot](https://img.shields.io/github/stars/LarssJakobsons/CharacterAI-Discord-Bot?color=yellow&label=CharacterAI-Discord-Bot&style=flat-square)](https://github.com/LarssJakobsons/CharacterAI-Discord-Bot)
 -->
