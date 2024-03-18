@@ -1,7 +1,8 @@
-l# Hello there! 👋
+# Hello there! 👋
 
-### [I'm Larss_J](https://larssj.dev)
+### I'm Larss_J
 &nbsp; Your favourite self-proclaimed coder :D
+&emsp; https://larssj.dev
 
  #### Skillset:
  &nbsp;[![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://github.com/LarssJakobsons) [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/LarssJakobsons) [![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://github.com/LarssJakobsons) [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://github.com/LarssJakobsons) [![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3&logoColor=1572B6)](https://github.com/LarssJakobsons)
